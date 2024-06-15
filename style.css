@@ -1,0 +1,32 @@
+.heading{
+    color: rgb(146, 52, 113);
+    font-weight: bolder;
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    box-shadow: 15px 15px 25px rgb(79, 74, 138);
+    width: 98%;
+    margin: 4px;
+}
+.note{
+    color: darkred;
+    font-size: 12.5px;
+    font-weight: bold;
+    font-style: italic;
+    font-family:cursive;
+}
+.copy-right-footer{
+    color: rgb(140, 205, 90);
+    background-color: rgb(180, 52, 52);
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    position: fixed;
+
+}
+canvas{
+    box-shadow: 10px 10px 20px rgb(0, 242, 255);
+    border: 5px dotted rgb(209, 21, 131);
+    border-radius: 20px;
+}
